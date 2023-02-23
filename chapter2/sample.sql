@@ -1,5 +1,6 @@
 -- phpMyAdmin SQL
 
+
 --
 -- Database: `sample`
 --
